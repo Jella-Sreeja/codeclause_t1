@@ -1,0 +1,15 @@
+var formula = `{
+    "conversions": [
+        {
+            "from": "Kilogram",
+            "to": "Gram",
+            "formula": "Gram = Kilogram*1000"
+        },
+        {
+            "from": "Gram",
+            "to": "Kilogram",
+            "formula": "Kilogram=Gram/1000"
+        }
+        
+    ]
+}`;
